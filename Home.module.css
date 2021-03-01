@@ -131,7 +131,9 @@
 
   .nav ul {
     list-style-type: none;
-    padding: 0;
+    padding: 100%;
   }
-
+.textarea{
+    resize: none;
+  }
 }
